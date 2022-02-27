@@ -7,9 +7,14 @@
 - [第六章：定积分的应用](第六章：定积分的应用)
 - [第七章：常微分方程](第七章：常微分方程)
 - [第八章：多元函数微分学](第八章：多元函数微分学)
+- [第九章：二重积分](第九章：二重积分)
+- [第十章：无穷级数](第十章：无穷级数)
+- [第十一章：向量代数与解析几何](第十一章：向量代数与解析几何)
+- [第十二章：多元积分学及其应用](第十二章：多元积分学及其应用)
+
 
 - **Links**
 - [![Code](assets/img/code.svg)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-- [![Github](assets/img/github.svg)Github](https://github.com/jhildenbiddle/docsify-themeable)
+- [![Github](assets/img/github.svg)Github](https://github.com/2bWant2b)
 - [![NPM](assets/img/npm.svg)NPM](https://www.npmjs.com/package/docsify-themeable)
 - [![Twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/jhildenbiddle)
