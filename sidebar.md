@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line first-line-heading -->
+- **高等数学**
 - [第一章：函数&极限&连续](第一章：函数&极限&连续)
 - [第二章：导数与微分](第二章：导数与微分)
 - [第三章：微分中值定理及导数应用](第三章：微分中值定理及导数应用)
@@ -13,6 +14,15 @@
 - [第十二章：多元积分学及其应用](第十二章：多元积分学及其应用)
 
 
+- **线性代数**
+- [第一章：行列式](线性代数/第一章：行列式)
+- [第二章：矩阵](线性代数/第二章：矩阵)
+
+
+- **概率论**
+
+
+
 - **Links**
 - [![Github](assets/img/github.svg)Github](https://github.com/2bWant2b)
-
+- [![Blog](assets/img/心favicon.png)Blog](https://2bwant2b.com)
